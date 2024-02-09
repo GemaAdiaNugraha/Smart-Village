@@ -1,2 +1,2 @@
-# project1
+# Smart Village
 repositiry project
